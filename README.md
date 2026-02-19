@@ -41,7 +41,7 @@ I am deeply passionate about building secure, high-performance systems and user-
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Prakash8279&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Prakash8279&theme=radical&row=1&column=6&margin-w=15" alt="Prakash's Trophies" />
   </a>
 </div>
 
